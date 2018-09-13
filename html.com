@@ -1,0 +1,56 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <meta http-equiv="X-UA-Compatible" content="ie=edge">
+   <title>Document</title>
+  <style>
+  h1 {
+  text-align: center;
+  font-size: 55px;
+  border: solid 3px;
+  background-color: pink;
+  
+}
+.stuff {
+  border: solid 3px;
+  font-size: 160%;
+  margin: 8% 20px;
+  padding: 10px;
+  background-color: white
+}
+.footer {
+  position: static;
+    width: 100%;
+  height: 50px;
+    background-color: #f98ee6;
+    color: white;
+    text-align: center;
+  margin: 0px 0px;
+}
+  </style>
+  <body background= "https://www.xmple.com/wallpaper/purple-linear-green-gradient-1920x1080-c2-ee82ee-00fa9a-a-90-f-14.svg">
+  <div>
+  <h1>
+    About 
+  </h1>
+</div>
+  <div class= "stuff">
+  <p1>
+    Lorem ipsum dolor sit, amet consectetur adipisicing elit. Rerum, voluptatem cumque culpa itaque debitis dolor quisquam tempora! Ipsum itaque dicta doloribus placeat quasi. Praesentium quas, quis doloremque nesciunt assumenda Lorem ipsum dolor, sit amet consectetur adipisicing elit. Incidunt, illo? Ipsum magni, inventore harum ipsam deserunt, eligendi id dolorum, repudiandae enim magnam voluptates exercitationem voluptate ut a sit velit qui.
+    </p1><br>
+    <br>
+    <p2>
+      Lorem ipsum dolor sit amet consectetur adipisicing elit. Quo, unde? Illum natus quas facilis voluptatibus a, fugiat nihil? Provident at sunt, nostrum excepturi nulla molestias nam soluta omnis numquam Lorem ipsum dolor sit amet consectetur adipisicing elit. Voluptates consequuntur totam aperiam mollitia minima quasi expedita, qui eveniet eum architecto, culpa veritatis accusantium asperiores nesciunt commodi temporibus ut vitae tenetur.
+    </p2> <br>
+    <br>
+    <p3>
+      Lorem, ipsum dolor sit amet consectetur adipisicing elit. Laboriosam quos vero nisi labore omnis fuga assumenda perspiciatis provident quidem repudiandae reprehenderit blanditiis, totam dolor repellat eveniet necessitatibus eos dolorum? In! Lorem ipsum dolor, sit amet consectetur adipisicing elit. Aspernatur unde temporibus dolore incidunt? Rerum voluptatem esse doloribus libero facere modi a quod perferendis architecto aliquam aspernatur sapiente earum, ducimus accusamus!
+    </p3>
+  </div>
+    <div class="footer">
+      <p>Footer</p>
+  </div>
+  <body/>
